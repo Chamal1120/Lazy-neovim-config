@@ -1,6 +1,6 @@
 # Lazy-neovim-config
 
-![Neovim IDE Config Demo](neovim-image1.png)
+![Neovim IDE Config Demo](/neovim-image1.png)
 
 This is my custom config of Neovim which is primarily optimized for my workflow but can be configured for any other workflow without a hassle.
 
