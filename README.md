@@ -34,8 +34,8 @@ This is my custom config of neovim which is primarily optimized for my workflow 
 
 1. Install Neovim (if you haven't already).
 2. Pull the config from my repo using git.
-    - You should put the these files in the neovim's default runtime path which is `~/.config/nvim` (Pull the files directly to there or copy/move after downloading).
-3. Open neovim using nvim command and source the `init.lua` file.
+    - You should put these files in the neovim's default runtime path which is `~/.config/nvim` (Pull the files directly to there or copy/move after downloading).
+3. Open neovim using `nvim` command and source the `init.lua` file.
     - You can source the init.lua file by openning that file directly from neovim and running `:Source %` in the neovim command pallete.
 4. Now run `:Lazy` in neovim command pallete and lazy.nvim will install all the nessary plugins.
 
