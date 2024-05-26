@@ -1,6 +1,7 @@
 # Lazy neovim config
 
-![Neovim IDE Config Demo](images/neovim-image1.png)
+![Neovim IDE Config Demo](images/neovim-image-dashboard.png)
+![Neovim IDE Config Demo](images/neovim-image-code-editor.png)
 
 This is my custom config of neovim which is primarily optimized for my workflow but can be configured for any other workflow without a hassle.
 
