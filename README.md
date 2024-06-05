@@ -1,7 +1,15 @@
 # Lazy neovim config
 
-![Neovim IDE Config Demo](images/neovim-image-dashboard.png)
-![Neovim IDE Config Demo](images/neovim-image-code-editor.png)
+![Neovim IDE Config Demo](images/01_welcome.png) <br>
+_Welcome Screen_ <br><br>
+![Neovim IDE Config Demo](images/02_search.png) <br>
+_Fuzzy Search_ <br><br>
+![Neovim IDE Config Demo](images/03_editor.png) <br>
+_Code Editor and File Tree Sidebar_ <br><br>
+![Neovim IDE Config Demo](images/04_grep.png) <br>
+_Live grep_ <br><br>
+![Neovim IDE Config Demo](images/05_lsp.png) <br>
+_LSP (Language Server Protocol)_ <br><br>
 
 This is my custom config of neovim which is primarily optimized for my workflow but can be configured for any other workflow without a hassle.
 
