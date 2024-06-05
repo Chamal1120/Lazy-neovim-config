@@ -4,7 +4,7 @@
 _Welcome Screen_ <br><br>
 ![Neovim IDE Config Demo](images/02_search.png) <br>
 _Fuzzy Search_ <br><br>
-![Neovim IDE Config Demo](images/03_editor.png) <br>
+![Neovim IDE Config Demo](images/03_Editor.png) <br>
 _Code Editor and File Tree Sidebar_ <br><br>
 ![Neovim IDE Config Demo](images/04_grep.png) <br>
 _Live grep_ <br><br>
